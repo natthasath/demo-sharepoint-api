@@ -1,5 +1,3 @@
-# demo-sharepoint-api
-
 # 🎉 DEMO SharePoint API
 
 SharePlum is an easier way to work with SharePoint services. It handles all of the messy parts of dealing with SharePoint and allows you to write clean and Pythonic code.
