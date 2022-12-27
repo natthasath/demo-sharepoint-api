@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "demo-sharepoint-api"
+version = "0.1.0"
+description = ""
+authors = ["Natthasath Saksupanara <natthasath.sak@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+packages = [{include = "demo_sharepoint_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.88.0"
+pydantic = {extras = ["email"], version = "^1.10.2"}
+uvicorn = "^0.20.0"
+python-decouple = "^3.6"
+python-multipart = "^0.0.5"
+shareplum = "^0.5.1"
+pandas = "^1.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

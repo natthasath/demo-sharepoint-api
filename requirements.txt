@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+python-decouple
+python-multipart
+shareplum
+pydantic[email]
+
+fastapi_sessions
