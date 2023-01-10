@@ -4,6 +4,7 @@ uvicorn
 python-decouple
 python-multipart
 shareplum
+pandas
 pydantic[email]
 
 fastapi_sessions
