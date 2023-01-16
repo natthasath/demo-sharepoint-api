@@ -1,6 +1,6 @@
 # 🎉 DEMO SharePoint API
 
-SharePlum is an easier way to work with SharePoint services. It handles all of the messy parts of dealing with SharePoint and allows you to write clean and Pythonic code.
+SharePlum is a python library that allows easy access and manipulation of SharePoint data, like lists and libraries, using SharePoint API and Python, also supports authentication methods.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
